@@ -23,7 +23,7 @@ This project based on [learnopengl-website](https://learnopengl.com/Getting-star
 | ESC           | app quits |
 
 ## How to run
-* Clone the repository: `git clone https://github.com/Przemekkkth/camera-opengl-qt.git`
+* Clone the repository: `git clone https://github.com/Dubby0610/Camera_Opengl.git`
 * Navigate to the project directory: cd your-repository
 * Configure and build the project:
 ```
